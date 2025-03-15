@@ -1,0 +1,16 @@
+
+receptor = receptor/3ebz.pdbqt
+ligand = dock_Ligands\Vanillin.pdbqt
+out = results/Vanillin_out.pdbqt
+
+center_x = 21.534
+center_y = 7.203
+center_z = 14.178
+
+size_x = 80.0
+size_y = 48.0
+size_z = 58.0
+
+exhaustiveness = 8
+num_modes = 9
+energy_range = 3

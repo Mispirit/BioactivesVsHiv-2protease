@@ -1,0 +1,4 @@
+3ebz
+spacing    0.781
+npts       80 48 58
+center    21.534  7.203 14.178

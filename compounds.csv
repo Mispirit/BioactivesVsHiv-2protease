@@ -1,0 +1,26 @@
+Name,SMILES
+Protodioscin,C[C@H]1[C@H]2[C@H](C[C@@H]3[C@@]2(CC[C@H]4[C@H]3CC=C5[C@@]4(CC[C@@H](C5)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O[C@H]7[C@@H]([C@@H]([C@H]([C@@H](O7)C)O)O)O)O)O[C@H]8[C@@H]([C@@H]([C@H]([C@@H](O8)C)O)O)O)C)C)O[C@@]1(CC[C@@H](C)CO[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O)O
+Prototribestin,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O[C@H]3[C@@H]([C@@H]([C@H]([C@@H](O3)C)O)O)O)O[C@H]4CC[C@@]5([C@H]6CC[C@]7([C@H]([C@@H]6CC=C5C4)C[C@H]8[C@@H]7C(=C(O8)CC[C@@H](C)CO[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O)C)C)C)CO)O)O)O
+Dioscin,C[C@@H]1CC[C@@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC=C6[C@@]5(CC[C@@H](C6)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O[C@H]8[C@@H]([C@@H]([C@H]([C@@H](O8)C)O)O)O)O)O[C@H]9[C@@H]([C@@H]([C@H]([C@@H](O9)C)O)O)O)C)C)C)OC1
+Tribulosin,C[C@H]1CC[C@@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC[C@@H]6[C@@]5(CC[C@@H](C6)O[C@H]7[C@@H]([C@H]([C@H]([C@H](O7)CO)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O[C@H]9[C@@H]([C@H]([C@@H](CO9)O)O)O)O[C@H]2[C@@H]([C@H]([C@@H](CO2)O)O)O)O)O[C@H]2[C@@H]([C@@H]([C@H]([C@@H](O2)C)O)O)O)C)C)C)OC1
+Rutin,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O
+kaempferol,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O
+kaempferol-3-glucoside,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O
+Kaempferol-3-rutinoside,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC=C(C=C5)O)O)O)O)O)O)O
+Tribuloside,C1=CC(=CC=C1/C=C/C(=O)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC=C(C=C5)O)O)O)O)O
+quercetin,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O
+Isorhamnetin,COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O
+Flavonols,C1=CC=C(C=C1)C2=C(C(=O)C3=CC=CC=C3O2)O
+Terrestribisamide,COC1=C(C=CC(=C1)/C=C/C(=O)NCCCCNC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O
+Pseudoprotodioscin,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O[C@H]3[C@@H]([C@@H]([C@H]([C@@H](O3)C)O)O)O)O[C@H]4CC[C@@]5([C@H]6CC[C@]7([C@H]([C@@H]6CC=C5C4)C[C@H]8[C@@H]7C(=C(O8)CC[C@@H](C)CO[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O)C)C)C)CO)O)O)O
+Quercetin 3-gentiobioside,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O)O)O)O)O
+"pyrrolidine-2,5-dione",C1CC(=O)NC1=O
+Terrestribisamide,COC1=C(C=CC(=C1)/C=C/C(=O)NCCCCNC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O  
+Tribulusterine,c2cccc3[nH]c1c(/C(C)=C(/C=C\O)\CO)nccc1c23
+"(25R)-Spirost-4-ene-3,12-dione",C[C@@H]1CC[C@@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(C(=O)C[C@H]5[C@H]4CCC6=CC(=O)CC[C@]56C)C)C)OC1  
+Terrestrosin K,CC1=C(O[C@@H]2[C@H]1[C@@]3([C@@H](C2)[C@@H]4CC[C@H]5C[C@H](CC[C@@]5([C@H]4CC3=O)C)O[C@H]6[C@@H]([C@H]([C@H]([C@H](O6)CO)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O[C@H]8[C@@H]([C@H]([C@H]([C@H](O8)CO)O)O)O)O)O)C)CC[C@@H](C)CO[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O 
+Terrestrosin G,C[C@H]1[C@H]2[C@H](CC3[C@@]2(CCC4C3CCC5[C@@]4(C[C@H]([C@@H](C5)O[C@H]6[C@@H]([C@H]([C@H]([C@H](O6)CO)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)O)O)O)C)C)O[C@@]1(CCC(C)CO[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O)O  
+Tribulusamide B,COC1=CC(=CC2=C1O[C@H]([C@H]2C(=O)NCC(=O)C3=CC=C(C=C3)O)C4=CC(=C(C=C4)O)OC)/C=C/C(=O)NCCC5=CC=C(C=C5)O 
+terrestrosin d,C[C@@H]1CC[C@@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(C(=O)C[C@H]5[C@H]4CC[C@@H]6[C@@]5(CC[C@@H](C6)O[C@H]7[C@@H]([C@H]([C@H]([C@H](O7)CO)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O[C@H]9[C@@H]([C@H]([C@@H](CO9)O)O)O)O[C@H]2[C@@H]([C@H]([C@H]([C@H](O2)CO)O)O)O)O)O)C)C)C)OC1
+ferulic acid,COC1=C(C=CC(=C1)/C=C/C(=O)O)O
+Vanillin,COC1=C(C=CC(=C1)C=O)O
